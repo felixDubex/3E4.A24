@@ -1,5 +1,6 @@
-const prenom = "Yannick"; // Impossible de refaire =
 
+const prenom = "Yannick"; // Impossible de refaire =
+//prenom = "Pierre"; // Impossible de refaire = (1%)
 let age = 35; // définir une variable qui peut être réaffectée, je peux refaire un = (1%)
 
 age++;
